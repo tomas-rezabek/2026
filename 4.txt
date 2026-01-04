@@ -1,0 +1,3 @@
+04.01.2025
+went through CH5 Basic Queries in boot.dev
+- SQL function, wildcards, logical operators
