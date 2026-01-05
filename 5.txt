@@ -1,0 +1,5 @@
+05.01.2025
+went through CH6 Structuring in boot.dev
+- LIMIT, ORDER BY, ASC, DESC
+practicted PHP OOP with PDO databse connection
+practicted PHP CURL returning API responses in JSON - API NINJA provider
