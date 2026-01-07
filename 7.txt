@@ -1,0 +1,3 @@
+07.01.2025 11 - 12
+went through CH8 Subqueries in boot.dev
+ - queries within the queries, filtering nested data
