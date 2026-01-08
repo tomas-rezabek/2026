@@ -1,0 +1,5 @@
+08.01.2025
+worked on a FTP migration web app tool
+developing MVP via PHP OOP, docker compose, etc
+implemented copying from server A to server B via rclone
+processing queues via laravel artisan
