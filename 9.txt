@@ -1,0 +1,5 @@
+09.01.2025
+did just one task in boot.dev to keep the streak,
+was working on the FTP migration tool,
+have a working version between two servers,
+need to fix "stop migration" function and prepare for AUTH
