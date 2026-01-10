@@ -1,0 +1,5 @@
+10.01.2025
+did just one task in boot.dev to keep the streak, ONE to MANY relationship
+worked all day on the FTP migration app, fixed STOP function,
+implemented better logging, UI info, fixed pagination,
+preparing for AUTH implementation, also WordPress checker needs to be implemented
