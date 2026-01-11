@@ -1,0 +1,7 @@
+11.01.2025
+did just one task in boot.dev to keep the streak, Database Normalization, Data redundancy is important
+
+- created docker compose with Loki, Promtail linked to Grafana, router is sending syslog to promtail -> Loki -> Grafana,
+now on my home network I can see how many connections firewall dropped per second or TOP IPs, Ports, intesity etc.
+
+later will upgrade to pfSense (security with routing) -> ntopng (bandwidth, network usage) -> loki (syslogs) -> grafana (visualisation) 
