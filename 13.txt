@@ -1,0 +1,6 @@
+12.01.2026
+did one simple boot.dev task to keep the streak
+more energy overall, but came home late,
+i pushed wrong ftp migration directory to github, fixed it today with new push,
+worked on a wp-config.php checking, implemented new checkConfig function and played with
+alpine.js, aslo implemented Vite that runs with npm run dev and is used for insta changes on the web
