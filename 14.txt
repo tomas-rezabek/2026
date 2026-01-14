@@ -1,0 +1,6 @@
+12.01.2026
+did one simple boot.dev task to keep the streak
+updated some logging in the FTP migration tool,
+new function to download wp-config, parse the DB data and show them in UI,
+next update the config with new DB data and upload to the destination server,
+and also make export/import scripts for db
