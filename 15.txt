@@ -1,0 +1,5 @@
+15.01.2026
+did one simple boot.dev task to keep the streak
+added table_prefix in the UI, added totalMigrations status in the UI,
+started to implement new controller MigrationDbExportController which will take
+care of the database export, secured by random token
