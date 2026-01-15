@@ -1,4 +1,4 @@
-12.01.2026
+13.01.2026
 did one simple boot.dev task to keep the streak
 more energy overall, but came home late,
 i pushed wrong ftp migration directory to github, fixed it today with new push,
