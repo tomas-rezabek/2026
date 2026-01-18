@@ -1,0 +1,8 @@
+17.01.2026
+did one simple boot.dev task to keep the streak so far
+fixed mail-gw with postak where postak didnt properly mount /var/vmail RAID1,
+fixed dovecot error after boot, need to wait for wg tunnel first and then start the service,
+fixed certificate issue on mail-gw nginx,
+tested behavior when postak is offline, messages wait in Q on mail-wg and once is
+postak online messages are processed in the queue,
+can monitor spam with rspamd
