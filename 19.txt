@@ -1,0 +1,9 @@
+19.01.2026
+did one simple boot.dev task to keep the streak so far
+practiced via docker compose WordPress initialization, initially it was slow because
+it was reading data through wsl -> windows, moved the directory to linux only and
+it became fast again, recovered wordpress backup for mtt consulting, waiting for andreea,
+also started scanning 980k .cz domains for wordpress files, so far found 85587 .cz
+sites that have WordPress
+during the day managed to do a ticket related to apartmentbrno, apartmentpalava
+overall productive day imo
