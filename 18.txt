@@ -1,5 +1,5 @@
 18.01.2026
-did one simple boot.dev task to keep the streak so far
+actually failed boot.dev task to keep the streak, freze
 fixed mail-gw with postak where postak didnt properly mount /var/vmail RAID1,
 fixed dovecot error after boot, need to wait for wg tunnel first and then start the service,
 fixed certificate issue on mail-gw nginx,
