@@ -1,0 +1,3 @@
+22.01.2026
+did one boot.dev to keep the streak
+finished ssh-rsync bridge
