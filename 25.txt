@@ -1,0 +1,7 @@
+25.txt 
+did one boot.dev to keep the streak
+thin + bunny
+5-18
+working on automated backups via bash, using rsync and mysqldump so i can avoid
+temp files via pleskbackup
+easy daily snaphosts via TrueNas ZFS
