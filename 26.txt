@@ -1,0 +1,6 @@
+25.txt 
+did one boot.dev to keep the streak
+thin + bunny
+5-18
+working on migrating from forpsi to hetzner and replacing Plesk with custom
+ansible playbooks
