@@ -1,6 +1,7 @@
-25.txt 
+26.txt 
 did one boot.dev to keep the streak
 thin + bunny
 5-18
 working on migrating from forpsi to hetzner and replacing Plesk with custom
-ansible playbooks
+ansible playbooks, implemented unix users, /var/www/domain path, php with extensions,
+nginx with config per web

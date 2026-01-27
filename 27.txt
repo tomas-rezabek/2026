@@ -1,0 +1,6 @@
+27.txt 
+did one boot.dev to keep the streak
+thin + bunny
+5-18
+implemented database creation in ansible playbook, got working wordpress,
+learning more about php-fpm childs, queues, nginx caching
