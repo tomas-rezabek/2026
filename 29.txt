@@ -2,4 +2,5 @@
 did one boot.dev to keep the streak
 thin + bunny, 5-18,
 fully working ansible playbook for server and weby, tested via AWS EC2,
-implemented extra nginx config, fixed minor issues with directories
+implemented extra nginx config, fixed minor issues with directories,
+server is ready for couple of minutes, saving hours of manual configuration
