@@ -1,7 +1,6 @@
 28.txt 
 did one boot.dev to keep the streak
-thin + bunny
-5-18
+thin + bunny, 5-18,
 implemented fastcgi caching, tested opcache, cache hit and miss, performance tests with apache bench,
 fastcgi on vs off, opcache performance, ansible playbook, roles, main.yml is required under a role, but then it can include other tasks,
 handlers are executed at the end of the playbook
