@@ -2,4 +2,6 @@
 did one boot.dev to keep the streak
 bunny 5-13
 kino 15-21:30, worked on a pojisteni firmy form just a bit,
-need to fix file upload and submitting when only file is uploaded
+need to fix file upload and submitting when only file is uploaded,
+also switched bunny env to VMware workstation pro, workstation running on ubuntu,
+maybe will also include thin into seperate workstation later
