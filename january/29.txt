@@ -1,4 +1,4 @@
-29.txt 
+29.01.2026
 did one boot.dev to keep the streak
 thin + bunny, 5-18,
 fully working ansible playbook for server and weby, tested via AWS EC2,

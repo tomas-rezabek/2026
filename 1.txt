@@ -1,2 +1,0 @@
-01.01.2026 - 15:17
-went through CH1 SQL introduction in boot.dev
