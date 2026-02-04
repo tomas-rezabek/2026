@@ -1,0 +1,8 @@
+04.02.2026
+did one boot.dev to keep the streak
+bunny 5-13, thin 10-18
+finished calculator form, updated javascript, texts, emails etc, works as 
+expected, waiting for a reply, played battlefield, counterstrike,
+made requested websites changes for cert,
+worked on a landing page via Astro and Tailwind,
+implemented Icons via astro-icons componenet
