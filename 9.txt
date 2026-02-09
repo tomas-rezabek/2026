@@ -1,0 +1,3 @@
+09.02.2026
+finished flotila project for the client
+learning Astro dev web, headless CMS WordPress, reading through the documentation
